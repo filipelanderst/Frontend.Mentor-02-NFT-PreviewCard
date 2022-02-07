@@ -12,7 +12,7 @@ body {
     background-color: hsl(217, 54%, 11%);
     max-width: 300px;
     margin: auto;
-    padding: 5% 0%;
+    margin: 10% auto;
 }
 
 .card {
